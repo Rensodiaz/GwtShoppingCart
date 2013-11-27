@@ -1,0 +1,13 @@
+<module>
+    <!-- Inherit the core Web Toolkit stuff.                  -->
+    <inherits name="com.google.gwt.user.User"/>
+
+    <!-- Inherit the client side JSON handling. -->
+    <inherits name='com.google.gwt.json.JSON'/>
+
+
+    <!-- Specify the module entry point class.                   -->
+    <entry-point class="org.grails.gwttutorial.client.Application"/>
+
+    <stylesheet src='LoginManager.css' />
+</module>

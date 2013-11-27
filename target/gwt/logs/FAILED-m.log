@@ -1,0 +1,11 @@
+================================================================
+   Compilation started at Tue Nov 26 22:24:47 GMT-04:00 2013
+================================================================
+
+Base Dir = C:\Users\Renso&Kenny\IdeaProjects\GwtTutorial
+Loading inherited module 'm'
+   [ERROR] Unable to find 'm.gwt.xml' on your classpath; could be a typo, or maybe you forgot to include a classpath entry for source?
+================================================================
+   Compilation finished at Tue Nov 26 22:24:48 GMT-04:00 2013
+================================================================
+

@@ -1,0 +1,3 @@
+# Module org.grails.gwttutorial.Application
+# RPC service class, partial path of RPC policy file
+org.grails.gwttutorial.client.BookService, 14026A95C4582DEC2CB952D56B46611C.gwt.rpc

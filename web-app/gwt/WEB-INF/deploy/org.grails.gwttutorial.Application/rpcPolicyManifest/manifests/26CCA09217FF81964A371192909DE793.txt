@@ -1,0 +1,2 @@
+serviceClass: org.grails.gwttutorial.client.BookService
+path: 14026A95C4582DEC2CB952D56B46611C.gwt.rpc

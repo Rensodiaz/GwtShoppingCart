@@ -1,0 +1,34 @@
+================================================================
+   Compilation started at Wed Nov 27 00:41:39 GMT-04:00 2013
+================================================================
+
+Base Dir = C:\Users\Renso&Kenny\IdeaProjects\GwtTutorial
+Compiling module org.grails.gwttutorial.Application
+   Validating units:
+      Ignored 1 unit with compilation errors in first pass.
+Compile with -strict or with -logLevel set to TRACE or DEBUG to see all errors.
+   Compiling 6 permutations
+      Compiling permutation 3...
+      Process output
+         Compiling
+            Compiling permutation 0...
+      Process output
+         Compiling
+            Compiling permutation 5...
+      Process output
+         Compiling
+            Compiling permutation 1...
+      Process output
+         Compiling
+            Compiling permutation 4...
+      Process output
+         Compiling
+            Compiling permutation 2...
+   Compile of permutations succeeded
+Linking into C:\Users\Renso&Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application
+   Link succeeded
+   Compilation succeeded -- 8.292s
+================================================================
+   Compilation finished at Wed Nov 27 00:41:49 GMT-04:00 2013
+================================================================
+
