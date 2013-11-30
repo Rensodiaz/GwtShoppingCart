@@ -7,8 +7,6 @@ class ItemCompra {
     Producto producto;
     int cantidad;
 
-    static belongsTo = [carrito: Carrito];
-
     String creadoPor = "";
     String modificadoPor = "";
     Date dateCreated;

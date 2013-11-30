@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="604f0399-ac4d-41db-8b13-2edaf24db332" name="Default" comment="" />
+    <list default="true" id="604f0399-ac4d-41db-8b13-2edaf24db332" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-000001429761F734" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-000001429766F2FC" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-000001429766FFE3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-00000142976702C4" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-00000142976702D3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297685885" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297BFBDB1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297BFCA1B" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297CDD9D2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297CF59F5" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297D0C359" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297D1A500" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297D293BE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297D4270E" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297D55D79" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297D67A1F" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297DAE599" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\target\gwt\unitCache\gwt-unitCache\gwt-unitCache-0000014297DCD11D" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\WEB-INF\deploy\org.grails.gwttutorial.Application\rpcPolicyManifest\manifests\26CCA09217FF81964A371192909DE793.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\WEB-INF\deploy\org.grails.gwttutorial.Application\symbolMaps\038F3426640E05F812716EB6F3B03495.symbolMap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\WEB-INF\deploy\org.grails.gwttutorial.Application\symbolMaps\0CFB7E1CBB600AFAC5E50A264853721A.symbolMap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\WEB-INF\deploy\org.grails.gwttutorial.Application\symbolMaps\2D37402FD87D8EE33E737878E6D4A13B.symbolMap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\WEB-INF\deploy\org.grails.gwttutorial.Application\symbolMaps\70A8C07BF46F2C14C21A1658EF39C7DE.symbolMap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\WEB-INF\deploy\org.grails.gwttutorial.Application\symbolMaps\7EA4922BC212B219A5F3771BF1ABA335.symbolMap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\WEB-INF\deploy\org.grails.gwttutorial.Application\symbolMaps\CA6EC34C5C61C0E13159E3C11E386005.symbolMap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\038F3426640E05F812716EB6F3B03495.cache.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\038F3426640E05F812716EB6F3B03495.gwt.rpc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\0CFB7E1CBB600AFAC5E50A264853721A.cache.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\0CFB7E1CBB600AFAC5E50A264853721A.gwt.rpc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\14026A95C4582DEC2CB952D56B46611C.gwt.rpc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\2D37402FD87D8EE33E737878E6D4A13B.cache.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\2D37402FD87D8EE33E737878E6D4A13B.gwt.rpc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\70A8C07BF46F2C14C21A1658EF39C7DE.cache.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\70A8C07BF46F2C14C21A1658EF39C7DE.gwt.rpc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\7EA4922BC212B219A5F3771BF1ABA335.cache.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\7EA4922BC212B219A5F3771BF1ABA335.gwt.rpc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\CA6EC34C5C61C0E13159E3C11E386005.cache.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Renso&amp;Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application\CA6EC34C5C61C0E13159E3C11E386005.gwt.rpc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Application.java" afterPath="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/services/gwttutorial/BookService.groovy" afterPath="$PROJECT_DIR$/grails-app/services/gwttutorial/BookService.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/BookService.java" afterPath="$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/BookService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/BookServiceAsync.java" afterPath="$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/BookServiceAsync.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/carrito/Carrito.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/carrito/Carrito.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/CrearCuenta.java" afterPath="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/CrearCuenta.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/gwt/logs/FAILED-org.grails.gwttutorial.Application.log" afterPath="$PROJECT_DIR$/target/gwt/logs/FAILED-org.grails.gwttutorial.Application.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GwtTutorial-grailsPlugins.iml" afterPath="$PROJECT_DIR$/GwtTutorial-grailsPlugins.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/carrito/ItemCompra.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/carrito/ItemCompra.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Login.java" afterPath="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Login.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/MainPage.java" afterPath="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/MainPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/gwt/WEB-INF/deploy/org.grails.gwttutorial.Application/rpcPolicyManifest/manifest.txt" afterPath="$PROJECT_DIR$/web-app/gwt/WEB-INF/deploy/org.grails.gwttutorial.Application/rpcPolicyManifest/manifest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/gwt/logs/org.grails.gwttutorial.Application.log" afterPath="$PROJECT_DIR$/target/gwt/logs/org.grails.gwttutorial.Application.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/gwt/org.grails.gwttutorial.Application/org.grails.gwttutorial.Application.nocache.js" afterPath="$PROJECT_DIR$/web-app/gwt/org.grails.gwttutorial.Application/org.grails.gwttutorial.Application.nocache.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="GwtTutorial.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/a.dummy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385527293326" ignored="false" />
-    <file path="/Dummy.txt" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385527294979" ignored="false" />
+    <file path="/a.dummy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385769581074" ignored="false" />
+    <file path="/Dummy.txt" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385769582938" ignored="false" />
     <file path="/index.gsp" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385164007661" ignored="false" />
-    <file path="/Application.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385516772374" ignored="false" />
+    <file path="/Application.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385769434848" ignored="false" />
     <file path="/UrlMappings.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385058142154" ignored="false" />
     <file path="/Application.gwt.xml" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385516701589" ignored="false" />
     <file path="/LoginManager.css" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385163586617" ignored="false" />
@@ -16,15 +72,15 @@
     <file path="/Carrito.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385012088400" ignored="false" />
     <file path="/BootStrap.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385069051435" ignored="false" />
     <file path="/UsuarioService.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385016250983" ignored="false" />
-    <file path="/Login.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385523836321" ignored="false" />
+    <file path="/Login.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385702172710" ignored="false" />
     <file path="/MainPage.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385527161987" ignored="false" />
     <file path="/fragment.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385515261280" ignored="false" />
     <file path="/BookService.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385050801928" ignored="false" />
-    <file path="/BookService.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385525327426" ignored="false" />
+    <file path="/BookService.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385762030795" ignored="false" />
     <file path="/Producto.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385068964144" ignored="false" />
-    <file path="/BuildConfig.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385166955868" ignored="false" />
+    <file path="/BuildConfig.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385738156413" ignored="false" />
     <file path="$PROJECT_DIR$/../pro/grails-app/conf/BuildConfig.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385170422373" ignored="false" />
-    <file path="/CrearCuenta.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385407614276" ignored="false" />
+    <file path="/CrearCuenta.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385736282074" ignored="false" />
     <file path="/Sesion.java" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385515390105" ignored="false" />
     <file path="$PROJECT_DIR$/../practica7_20090133/grails-app/conf/BootStrap.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385521032838" ignored="false" />
     <file path="$PROJECT_DIR$/../practica7_20090133/grails-app/conf/UrlMappings.groovy" changelist="604f0399-ac4d-41db-8b13-2edaf24db332" time="1385521032838" ignored="false" />
@@ -44,6 +100,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -80,7 +137,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -90,55 +146,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Application.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="8" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sesion.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/Sesion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="38" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+            <state line="246" column="0" selection-start="8511" selection-end="8511" vertical-scroll-proportion="0.5418327">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2216#2232#0" expanded="true" />
+                <element signature="e#2486#2496#0" expanded="true" />
+                <element signature="method#Login#0;class#Application#0" expanded="false" />
+                <element signature="e#4720#4874#0" expanded="true" />
+                <element signature="e#4863#4864#0" expanded="true" />
+                <element signature="e#5027#7124#0" expanded="true" />
+                <element signature="e#7113#7114#0" expanded="true" />
+                <element signature="e#7938#8091#0" expanded="true" />
+                <element signature="e#8080#8081#0" expanded="true" />
+                <element signature="e#8206#8378#0" expanded="true" />
+                <element signature="e#8363#8364#0" expanded="true" />
+                <element signature="e#11249#13323#0" expanded="true" />
+                <element signature="e#11888#13213#0" expanded="true" />
+                <element signature="e#13182#13183#0" expanded="true" />
+                <element signature="e#13300#13301#0" expanded="true" />
+                <element signature="method#addColumn#0;class#Application#0" expanded="false" />
+                <element signature="method#createCellWidget#0;class#Application#0" expanded="false" />
+                <element signature="method#crearCuenta#0;class#Application#0" expanded="false" />
+                <element signature="e#15898#18061#0" expanded="true" />
+                <element signature="e#18050#18051#0" expanded="true" />
+                <element signature="e#18112#18267#0" expanded="true" />
+                <element signature="e#18256#18257#0" expanded="true" />
+                <element signature="method#historial#0;class#Application#0" expanded="false" />
+                <element signature="e#19156#19309#0" expanded="true" />
+                <element signature="e#19298#19299#0" expanded="true" />
+                <element signature="e#19421#19576#0" expanded="true" />
+                <element signature="e#19565#19566#0" expanded="true" />
+                <element signature="method#verCarrito#0;class#Application#0" expanded="false" />
+                <element signature="e#23074#23229#0" expanded="true" />
+                <element signature="e#23218#23219#0" expanded="true" />
+                <element signature="e#23654#25235#0" expanded="true" />
+                <element signature="e#25224#25225#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Login.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Login.java">
+      <file leaf-file-name="Carrito.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/carrito/Carrito.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="60" selection-start="5197" selection-end="5197" vertical-scroll-proportion="0.0">
+            <state line="8" column="15" selection-start="115" selection-end="125" vertical-scroll-proportion="-2.8333333">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPage.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/MainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="79" selection-start="6954" selection-end="6954" vertical-scroll-proportion="0.838">
-              <folding>
-                <element signature="e#4191#7256#0" expanded="true" />
-                <element signature="e#4819#7146#0" expanded="true" />
-                <element signature="e#7115#7116#0" expanded="true" />
-                <element signature="e#7233#7234#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="116" selection-start="2045" selection-end="2045" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -154,10 +213,8 @@
       <file leaf-file-name="BookService.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/services/gwttutorial/BookService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="81" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#21#43#0" expanded="true" />
-              </folding>
+            <state line="103" column="31" selection-start="2828" selection-end="2828" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -180,22 +237,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/producto/Producto.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/bookStore/index.gsp" />
         <option value="$PROJECT_DIR$/web-app/css/LoginManager.css" />
         <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/public/LoginManager.css" />
-        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
-        <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/CrearCuenta.java" />
         <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/server/Sesion.java" />
         <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Sesion.java" />
         <option value="$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/Sesion.java" />
         <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/Application.gwt.xml" />
-        <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Application.java" />
         <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Login.java" />
-        <option value="$PROJECT_DIR$/grails-app/services/gwttutorial/BookService.groovy" />
         <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/CrearCuenta.java" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/carrito/Carrito.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/carrito/ItemCompra.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/services/gwttutorial/BookService.groovy" />
+        <option value="$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Application.java" />
       </list>
     </option>
   </component>
@@ -249,12 +306,12 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -272,13 +329,10 @@
     </key>
   </component>
   <component name="RunManager" selected="Grails.Grails:GwtTutorial">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -291,10 +345,13 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -303,19 +360,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -346,6 +390,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -359,6 +416,10 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <module name="" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -380,10 +441,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
-      <module name="" />
       <method />
     </configuration>
     <configuration default="false" name="Grails:GwtTutorial" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -455,21 +512,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32635984" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31938633" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26638773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22812052" sideWeight="0.7336123" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26359832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1850789" sideWeight="0.7364017" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -480,10 +536,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.67224544" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32078102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31938633" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39888424" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -580,42 +637,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/CrearCuenta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="34" selection-start="808" selection-end="808" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="116" selection-start="2045" selection-end="2045" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/Application.gwt.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="4" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/Sesion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/carrito/ItemCompra.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="6" selection-start="49" selection-end="49" vertical-scroll-proportion="0.1734694">
           <folding />
         </state>
       </provider>
@@ -630,9 +654,68 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="69" selection-start="678" selection-end="678" vertical-scroll-proportion="0.6693227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/Sesion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="38" selection-start="227" selection-end="227" vertical-scroll-proportion="-0.32071713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="76" selection-start="443" selection-end="443" vertical-scroll-proportion="0.30478087">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="27" selection-start="2479" selection-end="2479" vertical-scroll-proportion="0.55888224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/CrearCuenta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="12" selection-start="0" selection-end="5388" vertical-scroll-proportion="1.0695297">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/carrito/ItemCompra.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="104" selection-end="104" vertical-scroll-proportion="-2.8333333">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/gwttutorial/BookService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="31" selection-start="2828" selection-end="2828" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/carrito/Carrito.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="27" selection-start="149" selection-end="149" vertical-scroll-proportion="0.37046006">
+        <state line="8" column="15" selection-start="115" selection-end="125" vertical-scroll-proportion="-2.8333333">
           <folding />
         </state>
       </provider>
@@ -642,42 +725,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="8" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="60" selection-start="5197" selection-end="5197" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/services/gwttutorial/BookService.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="81" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0">
+        <state line="246" column="0" selection-start="8511" selection-end="8511" vertical-scroll-proportion="0.5418327">
           <folding>
-            <element signature="e#21#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/org/grails/gwttutorial/client/BookService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gwt/org/grails/gwttutorial/client/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="79" selection-start="6954" selection-end="6954" vertical-scroll-proportion="0.838">
-          <folding>
-            <element signature="e#4191#7256#0" expanded="true" />
-            <element signature="e#4819#7146#0" expanded="true" />
-            <element signature="e#7115#7116#0" expanded="true" />
-            <element signature="e#7233#7234#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2216#2232#0" expanded="true" />
+            <element signature="e#2486#2496#0" expanded="true" />
+            <element signature="method#Login#0;class#Application#0" expanded="false" />
+            <element signature="e#4720#4874#0" expanded="true" />
+            <element signature="e#4863#4864#0" expanded="true" />
+            <element signature="e#5027#7124#0" expanded="true" />
+            <element signature="e#7113#7114#0" expanded="true" />
+            <element signature="e#7938#8091#0" expanded="true" />
+            <element signature="e#8080#8081#0" expanded="true" />
+            <element signature="e#8206#8378#0" expanded="true" />
+            <element signature="e#8363#8364#0" expanded="true" />
+            <element signature="e#11249#13323#0" expanded="true" />
+            <element signature="e#11888#13213#0" expanded="true" />
+            <element signature="e#13182#13183#0" expanded="true" />
+            <element signature="e#13300#13301#0" expanded="true" />
+            <element signature="method#addColumn#0;class#Application#0" expanded="false" />
+            <element signature="method#createCellWidget#0;class#Application#0" expanded="false" />
+            <element signature="method#crearCuenta#0;class#Application#0" expanded="false" />
+            <element signature="e#15898#18061#0" expanded="true" />
+            <element signature="e#18050#18051#0" expanded="true" />
+            <element signature="e#18112#18267#0" expanded="true" />
+            <element signature="e#18256#18257#0" expanded="true" />
+            <element signature="method#historial#0;class#Application#0" expanded="false" />
+            <element signature="e#19156#19309#0" expanded="true" />
+            <element signature="e#19298#19299#0" expanded="true" />
+            <element signature="e#19421#19576#0" expanded="true" />
+            <element signature="e#19565#19566#0" expanded="true" />
+            <element signature="method#verCarrito#0;class#Application#0" expanded="false" />
+            <element signature="e#23074#23229#0" expanded="true" />
+            <element signature="e#23218#23219#0" expanded="true" />
+            <element signature="e#23654#25235#0" expanded="true" />
+            <element signature="e#25224#25225#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -689,8 +771,8 @@
         <entry key="GwtTutorial">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="-1818781204" />
-              <option name="pluginDependenciesCrc" value="-1298997414" />
+              <option name="buildConfigCrc" value="1519297218" />
+              <option name="pluginDependenciesCrc" value="38049586" />
               <option name="properties">
                 <map>
                   <entry key="grails.global.plugins.dir" value="C:\Users\Renso&amp;Kenny\.grails\2.2.4\global-plugins" />

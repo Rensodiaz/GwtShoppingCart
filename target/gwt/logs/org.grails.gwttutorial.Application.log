@@ -1,5 +1,5 @@
 ================================================================
-   Compilation started at Wed Nov 27 00:41:39 GMT-04:00 2013
+   Compilation started at Fri Nov 29 19:59:50 GMT-04:00 2013
 ================================================================
 
 Base Dir = C:\Users\Renso&Kenny\IdeaProjects\GwtTutorial
@@ -7,28 +7,125 @@ Compiling module org.grails.gwttutorial.Application
    Validating units:
       Ignored 1 unit with compilation errors in first pass.
 Compile with -strict or with -logLevel set to TRACE or DEBUG to see all errors.
+   Computing all possible rebind results for 'org.grails.gwttutorial.client.BookService'
+      Rebinding org.grails.gwttutorial.client.BookService
+         Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+            Generating client proxy for remote service interface 'org.grails.gwttutorial.client.BookService'
+               Analyzing 'org.grails.gwttutorial.client.BookService' for serializable types
+                  Analyzing methods:
+                     public abstract java.lang.String checkOut(java.util.HashMap arg0, java.lang.String arg1)
+                        Parameter: java.util.HashMap arg0
+                           java.util.HashMap
+                              Verifying instantiability
+                                 java.util.HashMap<? extends java.lang.Object, ? extends java.lang.Object>
+                                    [WARN] Checking all subtypes of Object which qualify for serialization
+                                       com.google.gwt.validation.client.impl.PathImpl
+                                          Verifying instantiability
+                                             com.google.gwt.validation.client.impl.PathImpl
+                                                Analyzing the fields of type 'com.google.gwt.validation.client.impl.PathImpl' that qualify for serialization
+                                                   [WARN] Field 'private final java.util.List<javax.validation.Path.Node> nodes' will not be serialized because it is final
+      Rebinding org.grails.gwttutorial.client.BookService
+         Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+            Generating client proxy for remote service interface 'org.grails.gwttutorial.client.BookService'
+               Analyzing 'org.grails.gwttutorial.client.BookService' for serializable types
+                  Analyzing methods:
+                     public abstract java.lang.String checkOut(java.util.HashMap arg0, java.lang.String arg1)
+                        Parameter: java.util.HashMap arg0
+                           java.util.HashMap
+                              Verifying instantiability
+                                 java.util.HashMap<? extends java.lang.Object, ? extends java.lang.Object>
+                                    [WARN] Checking all subtypes of Object which qualify for serialization
+                                       com.google.gwt.validation.client.impl.PathImpl
+                                          Verifying instantiability
+                                             com.google.gwt.validation.client.impl.PathImpl
+                                                Analyzing the fields of type 'com.google.gwt.validation.client.impl.PathImpl' that qualify for serialization
+                                                   [WARN] Field 'private final java.util.List<javax.validation.Path.Node> nodes' will not be serialized because it is final
+      Rebinding org.grails.gwttutorial.client.BookService
+         Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+            Generating client proxy for remote service interface 'org.grails.gwttutorial.client.BookService'
+               Analyzing 'org.grails.gwttutorial.client.BookService' for serializable types
+                  Analyzing methods:
+                     public abstract java.lang.String checkOut(java.util.HashMap arg0, java.lang.String arg1)
+                        Parameter: java.util.HashMap arg0
+                           java.util.HashMap
+                              Verifying instantiability
+                                 java.util.HashMap<? extends java.lang.Object, ? extends java.lang.Object>
+                                    [WARN] Checking all subtypes of Object which qualify for serialization
+                                       com.google.gwt.validation.client.impl.PathImpl
+                                          Verifying instantiability
+                                             com.google.gwt.validation.client.impl.PathImpl
+                                                Analyzing the fields of type 'com.google.gwt.validation.client.impl.PathImpl' that qualify for serialization
+                                                   [WARN] Field 'private final java.util.List<javax.validation.Path.Node> nodes' will not be serialized because it is final
+      Rebinding org.grails.gwttutorial.client.BookService
+         Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+            Generating client proxy for remote service interface 'org.grails.gwttutorial.client.BookService'
+               Analyzing 'org.grails.gwttutorial.client.BookService' for serializable types
+                  Analyzing methods:
+                     public abstract java.lang.String checkOut(java.util.HashMap arg0, java.lang.String arg1)
+                        Parameter: java.util.HashMap arg0
+                           java.util.HashMap
+                              Verifying instantiability
+                                 java.util.HashMap<? extends java.lang.Object, ? extends java.lang.Object>
+                                    [WARN] Checking all subtypes of Object which qualify for serialization
+                                       com.google.gwt.validation.client.impl.PathImpl
+                                          Verifying instantiability
+                                             com.google.gwt.validation.client.impl.PathImpl
+                                                Analyzing the fields of type 'com.google.gwt.validation.client.impl.PathImpl' that qualify for serialization
+                                                   [WARN] Field 'private final java.util.List<javax.validation.Path.Node> nodes' will not be serialized because it is final
+      Rebinding org.grails.gwttutorial.client.BookService
+         Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+            Generating client proxy for remote service interface 'org.grails.gwttutorial.client.BookService'
+               Analyzing 'org.grails.gwttutorial.client.BookService' for serializable types
+                  Analyzing methods:
+                     public abstract java.lang.String checkOut(java.util.HashMap arg0, java.lang.String arg1)
+                        Parameter: java.util.HashMap arg0
+                           java.util.HashMap
+                              Verifying instantiability
+                                 java.util.HashMap<? extends java.lang.Object, ? extends java.lang.Object>
+                                    [WARN] Checking all subtypes of Object which qualify for serialization
+                                       com.google.gwt.validation.client.impl.PathImpl
+                                          Verifying instantiability
+                                             com.google.gwt.validation.client.impl.PathImpl
+                                                Analyzing the fields of type 'com.google.gwt.validation.client.impl.PathImpl' that qualify for serialization
+                                                   [WARN] Field 'private final java.util.List<javax.validation.Path.Node> nodes' will not be serialized because it is final
+      Rebinding org.grails.gwttutorial.client.BookService
+         Invoking generator com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator
+            Generating client proxy for remote service interface 'org.grails.gwttutorial.client.BookService'
+               Analyzing 'org.grails.gwttutorial.client.BookService' for serializable types
+                  Analyzing methods:
+                     public abstract java.lang.String checkOut(java.util.HashMap arg0, java.lang.String arg1)
+                        Parameter: java.util.HashMap arg0
+                           java.util.HashMap
+                              Verifying instantiability
+                                 java.util.HashMap<? extends java.lang.Object, ? extends java.lang.Object>
+                                    [WARN] Checking all subtypes of Object which qualify for serialization
+                                       com.google.gwt.validation.client.impl.PathImpl
+                                          Verifying instantiability
+                                             com.google.gwt.validation.client.impl.PathImpl
+                                                Analyzing the fields of type 'com.google.gwt.validation.client.impl.PathImpl' that qualify for serialization
+                                                   [WARN] Field 'private final java.util.List<javax.validation.Path.Node> nodes' will not be serialized because it is final
    Compiling 6 permutations
-      Compiling permutation 3...
-      Process output
-         Compiling
-            Compiling permutation 0...
-      Process output
-         Compiling
-            Compiling permutation 5...
+      Compiling permutation 0...
       Process output
          Compiling
             Compiling permutation 1...
       Process output
          Compiling
-            Compiling permutation 4...
+            Compiling permutation 3...
       Process output
          Compiling
             Compiling permutation 2...
+      Process output
+         Compiling
+            Compiling permutation 5...
+      Process output
+         Compiling
+            Compiling permutation 4...
    Compile of permutations succeeded
 Linking into C:\Users\Renso&Kenny\IdeaProjects\GwtTutorial\web-app\gwt\org.grails.gwttutorial.Application
    Link succeeded
-   Compilation succeeded -- 8.292s
+   Compilation succeeded -- 12.397s
 ================================================================
-   Compilation finished at Wed Nov 27 00:41:49 GMT-04:00 2013
+   Compilation finished at Fri Nov 29 20:00:04 GMT-04:00 2013
 ================================================================
 

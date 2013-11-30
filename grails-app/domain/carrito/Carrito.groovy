@@ -7,7 +7,6 @@ class Carrito {
     Usuario usuario;
     Date fechaVenta;
     BigDecimal montoTotal;
-    int cantidadItems;
 
     static hasMany = [itemsCompra: ItemCompra];
 

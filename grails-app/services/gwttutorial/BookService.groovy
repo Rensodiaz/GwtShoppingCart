@@ -42,49 +42,66 @@ class BookService {
         return Producto.findAll().encodeAsJSON();
     }
 
-    String agregarACarrito(String userID, String productoID, String cantidad){
+//    String checkOut(String userID, String productoID, String cantidad){
+//
+//        int uID = Integer.parseInt(userID);
+//        int pID = Integer.parseInt(productoID);
+//
+//        Usuario u = Usuario.get(uID);
+//        Producto p = Producto.get(pID);
+//
+//        println("usuario: "+u.nombre+" producto: "+p.nombre+"cantidad: "+cantidad)
+//        return "Bien";
+//    }
 
-        int uID = Integer.parseInt(userID);
-        int pID = Integer.parseInt(productoID);
+    String checkOut(HashMap<String,String> items, String usuario){
 
-        Usuario u = Usuario.get(uID);
-        Producto p = Producto.get(pID);
+        int montoTotal = 0;
+        def p  = new Producto();
+        int cantidad;
+        def id  = Integer.parseInt(usuario);
+        List<ItemCompra> list = new ArrayList<>();
+        def u = Usuario.findById(id);
 
-        println("usuario: "+u.nombre+" producto: "+p.nombre+"cantidad: "+cantidad)
-        return "Bien";
+
+
+        for(def key : items){
+            def iP = new ItemCompra();
+            int k = Integer.parseInt(key.key)
+            p = Producto.findById(k);
+            cantidad = Integer.parseInt(key.value);
+            iP.cantidad = cantidad;
+            iP.producto = p;
+
+            if (p.cantidad>cantidad){
+                list.add(iP);
+            }else {
+                return "NoCantidad";
+            }
+        }
+
+
+        for(ItemCompra i in list){
+            println("producto nombre: "+i.producto.nombre)
+            //ItemCompras ic = new ItemCompras();
+            montoTotal = montoTotal+(i.cantidad*i.producto.precioVenta);
+            i.producto.cantidad = i.producto.cantidad-i.cantidad;
+            i.producto.save(failOnError: true);
+            i.save(failOnError: true);
+        }
+
+        Carrito carro = new Carrito(usuario: u,
+                montoTotal: montoTotal,
+                fechaVenta: new Date(),
+                itemsCompra: list);
+        if (carro.save(failOnError: true)){
+            return "good";
+        }else{
+            return "bad";
+        }
+    }
+    String historial(){
+        return Carrito.findAll().encodeAsJSON();
     }
 
-//    boolean checkOut(List<ItemCompra> items, String usuario){
-//
-//        def montoTotal = 0;
-//
-//        List<ItemCompra> list = new ArrayList<>();
-//
-//
-////        for(ItemAcomprar i in items){
-////            ItemCompras ic = new ItemCompras();
-////            montoTotal = montoTotal+(i.item.cantidad*i.item.producto.precioVenta);
-////            Producto p = Producto.findById(i.item.producto.id);
-////            p.cantidadExistencia = p.cantidadExistencia-i.item.cantidad;
-////            p.save(failOnError: true);
-////
-////            ic.producto = p;
-////            ic.cantidad = i.item.cantidad;
-////            ic.save(failOnError: true);
-////            list.add(ic);
-////        }
-//        Carrito carro = new Carrito(usuario: usuario,
-//                total: montoTotal,
-//                fechaVenta: new Date(),
-//                listaItems: list);
-//        if (carro.save(failOnError: true)){
-////           for (ItemCompras c in list){
-////               println("guardado des: "+c.producto.nombre)
-////           }
-//            return true;
-//        }else{
-//            return false;
-//        }
-//
-//    }
 }
